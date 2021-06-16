@@ -1,7 +1,6 @@
 
 ### Hey 😁
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Negr170&show_icons=true&theme=midnight-purple>
-  <p align="center">
+
 
 - 👋 Hi, I’m @Negr170
 - 👀 I’m interested in Informatic
