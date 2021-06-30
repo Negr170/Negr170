@@ -12,7 +12,7 @@
   <br>
   <br>
   <br>
-  <a href="https://frenetik.000webhostapp.com/" target="_BLANK">🌍 Mon site Web en cours de Développement 🌍</a>
+  <a href="https://frenetik.000webhostapp.com/">🌍 Mon site Web en cours de Développement 🌍</a>
   <br>
 </p>
 
@@ -59,6 +59,6 @@
 ### <p align="center">🚩 &nbsp;Challenges</p>
 <br>
 <p align="center">
-  <a href="torontochall.ddns.net/">🚧Torontochall🚧</a>
+  <a href="https://torontochall.ddns.net/">🚧Torontochall🚧</a>
   </p>
   <br>
