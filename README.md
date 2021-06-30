@@ -60,5 +60,5 @@
 <br>
 <p align="center">
   <a href="torontochall.ddns.net/"🚧Torontochall🚧</a>
+  </p>
   <br>
-</p>
