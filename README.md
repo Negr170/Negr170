@@ -54,3 +54,11 @@
 <br>
 
 -----
+
+-----
+### <p align="center">🚩 &nbsp;Challenges</p>
+<br>
+<p align="center">
+  <a href="torontochall.ddns.net/"🚧Torontochall🚧</a>
+  <br>
+</p>
