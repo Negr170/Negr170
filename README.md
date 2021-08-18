@@ -60,5 +60,6 @@
 <br>
 <p align="center">
   <a href="https://tryhackme.com/p/n3gr1t0">🦇TryHackMe🦇</a>
+  <script src="https://tryhackme.com/badge/384675"></script>
   </p>
   <br>
