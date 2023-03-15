@@ -1,13 +1,13 @@
 
 <p align = "center">
-<img src="https://cdn.discordapp.com/attachments/858079470169489440/859860365054312458/74fabe0ac2588f7f052170708b5136b8.gif">
+<img src="https://media.discordapp.net/attachments/857951997440425985/1085143096376954931/quartier-air-bel-mutation-anru.png?width=1016&height=676">
 </p>
 
 -----
 ### <p align="center">🧠 &nbsp;Présentation</p>
 <br>
 <p align="center">
-  🙂 Bonjour, J'ai 16 ans, j'apprends le développement et la cybersécurité 🙂
+  🙂 Bonjour, J'ai 17 ans, j'apprends le développement w3b et la cybersécurité 🙂
   <br>
   <br>
   <br>
@@ -29,7 +29,7 @@
 <p align="center">
   <img src="https://discord.c99.nl/widget/theme-2/852993373710450768.png">
   <br>
-  juice1337@protonmail.com
+  m0um4@proton.me
 </p>
 
 
