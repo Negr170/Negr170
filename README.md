@@ -47,8 +47,9 @@
 ### 📞 &nbsp;Contact
 
 <p align="center">
-  <a href="mailto:m0um4@proton.me"><img src="https://img.shields.io/badge/Email-ProtonMail-D14836?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
-  <a href="https://discordapp.com/users/852993373710450768"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <img src="https://discord.c99.nl/widget/theme-2/852993373710450768.png">
+  <br>
+  m0um4@proton.me
 </p>
 
 ---
