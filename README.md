@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://t3.ftcdn.net/jpg/09/00/63/96/360_F_900639600_z18fHMzhwuwva5thRylehG1IitKYn0kS.jpg" width="1000">
+  <img src="https://t3.ftcdn.net/jpg/09/00/63/96/360_F_900639600_z18fHMzhwuwva5thRylehG1IitKYn0kS.jpg" width="600px">
 </p>
 
 <h1 align="center">Salut, je suis Mouma Alias Negrit0 👋</h1>
