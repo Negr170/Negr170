@@ -7,7 +7,7 @@
 ### <p align="center">🧠 &nbsp;Présentation</p>
 <br>
 <p align="center">
-  🙂 Bonjour, J'ai 18 ans, j'apprends le développement w3b et la cybersécurité 🙂
+  🙂 Bonjour, J'ai 19 ans, Actuellement à la recherche d'emploi dans le domaine Informatique 🙂
   <br>
   <br>
   <br>
