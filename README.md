@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://t3.ftcdn.net/jpg/09/00/63/96/360_F_900639600_z18fHMzhwuwva5thRylehG1IitKYn0kS.jpg" width="600px">
+  <img src="https://t3.ftcdn.net/jpg/09/00/63/96/360_F_900639600_z18fHMzhwuwva5thRylehG1IitKYn0kS.jpg" width="500px">
 </p>
 
 <h1 align="center">Salut, je suis Mouma Alias Negrit0 👋</h1>
@@ -65,7 +65,7 @@
 
 ### 📂 &nbsp;Projets Notables
 
-1. 🔑 **Connexion Discord via Token**  
+1. 🔑 **<a href="https://github.com/Negr170/discord-token-login/" target="_blank">Connexion Discord via Token**</a>
    - Script permettant de se connecter à Discord uniquement avec un token sans passer par la page de connexion.  
 
 2. 📝 **App To-Do List**  
@@ -95,7 +95,7 @@
      - Base de données MySQL pour stocker les utilisateurs et leurs informations.  
      - Bouton de déconnexion et protection des pages privées.  
 
-9. 💼 **<a href="https://Negr170.github.io/business_card_generator/" target="_blank">Générateur de carte de visite</a>**  
+9. 💼 **<a href="https://Negr170.github.io/business_card_generator/" target="_blank">Générateur de Carte de Visite</a>**  
    - Génère des cartes de visite personnalisées avec aperçu et téléchargement en PDF.
 
 ---
