@@ -74,8 +74,10 @@
 3. 🎨 **Générateur de QR Code**  
    - Convertit du texte ou des URL en QR Code grâce à Python.  
 
-4. 🔑 **Vérificateur de mots de passe sécurisés**  
-   - Vérifie la robustesse des mots de passe selon des critères de sécurité.  
+4. 🔑 **Vérificateur de mots de passe sécurisés & Générateur de Mot De Passe**  
+- Génère des mots de passe aléatoires et robustes selon vos besoins.
+- Vérifie la force des mots de passe (Faible, Moyenne, Forte).
+-  Utilise l'API Have I Been Pwned pour détecter les mots de passe compromis.  
 
 5. 🗣️ **Speaker Multilingue**  
    - Lit à haute voix des textes dans plusieurs langues avec la synthèse vocale.  
