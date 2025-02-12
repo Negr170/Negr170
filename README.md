@@ -57,15 +57,15 @@
 ### ⚙️ &nbsp;Mes Statistiques
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=negr170&show_icons=true&theme=tokyonight&include_all_commits=true&locale=fr"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=negr170&layout=compact&langs_count=8&theme=tokyonight&locale=fr"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=m0um666&show_icons=true&theme=tokyonight&include_all_commits=true&locale=fr"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=m0um666&layout=compact&langs_count=8&theme=tokyonight&locale=fr"/>
 </p>
 
 ---
 
 ### 📂 &nbsp;Projets Notables
 
-1. 🔑 **<a href="https://github.com/Negr170/discord-token-login/" target="_blank">Connexion Discord via Token**</a>
+1. 🔑 **<a href="https://github.com/m0um666/discord-token-login/" target="_blank">Connexion Discord via Token**</a>
    - Script permettant de se connecter à Discord uniquement avec un token sans passer par la page de connexion.  
 
 2. 📝 **App To-Do List**  
@@ -74,7 +74,7 @@
 3. 🎨 **Générateur de QR Code**  
    - Convertit du texte ou des URL en QR Code grâce à Python.  
 
-4. 🔑 **<a href="https://github.com/Negr170/password_tool" target="_blank">Vérificateur de mots de passe sécurisés & Générateur de Mot De Passe**</a>
+4. 🔑 **<a href="https://github.com/m0um666/password_tool" target="_blank">Vérificateur de mots de passe sécurisés & Générateur de Mot De Passe**</a>
 - Génère des mots de passe aléatoires et robustes selon vos besoins.
 - Vérifie la force des mots de passe (Faible, Moyenne, Forte).
 -  Utilise l'API Have I Been Pwned pour détecter les mots de passe compromis.  
@@ -110,5 +110,5 @@
 ### 👀 &nbsp;Visiteurs
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/negr170/count.svg" />
+  <img src="https://profile-counter.glitch.me/m0um666/count.svg" />
 </p>
