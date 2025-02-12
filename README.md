@@ -95,7 +95,7 @@
      - Base de données MySQL pour stocker les utilisateurs et leurs informations.  
      - Bouton de déconnexion et protection des pages privées.  
 
-9. 💼 **<a href="https://Negr170.github.io/business_card_generator/" target="_blank">Générateur de Carte de Visite</a>**  
+9. 💼 **<a href="https://m0um666.github.io/business_card_generator/" target="_blank">Générateur de Carte de Visite</a>**  
    - Génère des cartes de visite personnalisées avec aperçu et téléchargement en PDF.
 
 ---
