@@ -4,7 +4,7 @@
   <img src="https://t3.ftcdn.net/jpg/09/00/63/96/360_F_900639600_z18fHMzhwuwva5thRylehG1IitKYn0kS.jpg" width="500px">
 </p>
 
-<h1 align="center">Salut, je suis Mouma Alias Negrit0 👋</h1>
+<h1 align="center">Salut, je suis Mouma 👋</h1>
 
 <p align="center">
   🧑‍💻 Passionné par l'informatique, développeur full stack et curieux insatiable ! <br>
